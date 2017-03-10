@@ -1,1 +1,1 @@
-alert('from the external file');
+alert('Hipster Time!');
